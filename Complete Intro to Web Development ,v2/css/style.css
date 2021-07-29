@@ -1,0 +1,21 @@
+h3,h5{
+    background-color:red;
+    text-align: center;
+    border: solid blueviolet 3px;  
+}
+h1:first-child{
+    background-color: orange;
+}
+.description{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p{
+    background-color: black;
+    color: white;
+}
+img{
+    display: block;
+    margin: auto ;
+}
